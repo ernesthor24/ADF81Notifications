@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ADF8.1Notifications</string>
+    <string name="btn_notify_text">Notify Me!</string>
+    <string name="btn_update_text">Update Me!</string>
+    <string name="btn_cancel_text">Cancel Me!</string>
+</resources>
